@@ -41,5 +41,5 @@ body {
 p {
   display: flex;
   padding: 3rem 0;
-  font-size: 5rem;
+  font-size: 1rem; /* 글씨 크기를 줄이니까 한줄로 되긴하네 */
 }
